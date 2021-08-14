@@ -9,8 +9,8 @@ public class Main{
 	public static void main(String args[])
 	{
 	  Main fact=new Main();
-	  
 	  System.out.println(fact.fact(20));
+	  
 	
 	}
 } 
